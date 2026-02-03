@@ -31,7 +31,7 @@
 		<div class="mb-8">
 			<h1 class="font-display text-6xl md:text-7xl font-extrabold tracking-[0.3em] uppercase mb-4"
 				style="color: rgba(0, 220, 255, 0.95); text-shadow: 0 0 40px rgba(0, 220, 255, 0.6), 0 0 80px rgba(20, 100, 255, 0.3), 0 0 120px rgba(0, 220, 255, 0.2);">
-				GIMIFY
+				Space42 POC 
 			</h1>
 			<div class="h-[2px] w-48 mx-auto mb-4"
 				style="background: linear-gradient(90deg, transparent, rgba(0, 220, 255, 0.6), transparent);"></div>

@@ -110,7 +110,7 @@
 		<div class="pointer-events-auto">
 			<h1 class="font-display text-xl font-extrabold tracking-[0.2em] uppercase"
 				style="color: rgba(0, 220, 255, 0.9); text-shadow: 0 0 20px rgba(0, 220, 255, 0.4), 0 0 40px rgba(20, 100, 255, 0.2);">
-				GIMIFY
+				Space42 POC
 			</h1>
 			<p class="font-body text-[10px] tracking-[0.3em] uppercase text-holo-pale/40 -mt-0.5">Vehicle Customization Studio</p>
 		</div>
